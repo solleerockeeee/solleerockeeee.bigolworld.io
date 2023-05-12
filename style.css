@@ -1,0 +1,13 @@
+
+.Homepage{background: url(bgworld\ homepage\ finalized\ backver.png) no-repeat center fixed;background-size: 800px;background-color: black; border: 25px;border-style: inset;border-color:rgb(136, 0, 0)}
+.Post{background: url(bgworld\ post\ page\ backver.png) no-repeat center fixed; background-size: 800px;background-color: black; border: 25px;border-style: inset;border-color:rgb(136, 0, 0)}
+.Profile{background: url(bgworld\ profile\ page\ backver.png) no-repeat center fixed; background-size: 800px;background-color: black; border: 25px;border-style: inset;border-color:rgb(136, 0, 0)}
+.Friends{background: url(bgworld\ friends\ page\ backver.png) no-repeat center fixed; background-size: 800px;background-color: black; border: 25px;border-style: inset;border-color:rgb(136, 0, 0)}
+.Algorithm{background: url(bgworld\ quality\ backver.png) no-repeat center fixed ;background-size: 800px;background-color: black; border: 25px;border-style: inset;border-color:rgb(136, 0, 0)}
+.About{background: url(bgworld\ about\ backver.png) no-repeat center;background-size: cover;background-color: black; border: 25px;border-style: inset;border-color:rgb(136, 0, 0)}
+ul{list-style-type: none;background-color: rgb(255, 217, 0);border: 10px;border-style: outset;border-color:rgb(255, 217, 0)}
+li{display: inline;}
+a{color: rgb(0, 4, 255); font-size: 70px;font-family: serif;text-decoration: none;}
+h1{text-align: center;color: rgb(0, 4, 255);font-size: 50px;background-position:center; background-color: black;width: fit-content;border: 10px;border-style: outset;border-color:rgb(255, 217, 0);margin-left: auto;margin-right: auto;}
+p{text-align: center;color: rgb(0, 255, 0);font-size: x-large;background-position: center;background-color: black;width: fit-content;border: 10px;border-style: outset;border-color:rgb(255, 217, 0);margin-left:auto;margin-right: auto;}
+b{color: rgb(9, 255, 0); font-size: x-large;font-family: serif;}
